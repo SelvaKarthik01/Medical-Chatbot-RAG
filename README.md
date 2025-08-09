@@ -1,6 +1,8 @@
 # 🏥 Medical Chatbot with RAG Architecture
 
 A powerful medical question-answering chatbot built using Retrieval-Augmented Generation (RAG) architecture. This chatbot leverages medical encyclopedia data to provide accurate, context-aware responses to medical queries.
+<img width="704" height="659" alt="image" src="https://github.com/user-attachments/assets/ff7e0f1e-9a93-47f3-a704-4448523e6c7c" />
+
 
 ## 🌟 Features
 
@@ -290,4 +292,5 @@ If you encounter any issues or have questions:
 ---
 
 **⚠️ Disclaimer**: This chatbot is for educational and informational purposes only. Always consult qualified healthcare professionals for medical advice, diagnosis, or treatment.
+
 
