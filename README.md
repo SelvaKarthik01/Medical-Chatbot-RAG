@@ -4,6 +4,7 @@ A powerful medical question-answering chatbot built using Retrieval-Augmented Ge
 <img width="704" height="659" alt="image" src="https://github.com/user-attachments/assets/ff7e0f1e-9a93-47f3-a704-4448523e6c7c" />
 
 
+*Note: Please Download the Knowledge Base -> and save this pdf in your data directory.(I couldn't upload it coz of its size being Huge. You can even download whatever pdf you want and save it ;)
 ## 🌟 Features
 
 - **RAG Architecture**: Combines retrieval from medical documents with generative AI
@@ -292,5 +293,6 @@ If you encounter any issues or have questions:
 ---
 
 **⚠️ Disclaimer**: This chatbot is for educational and informational purposes only. Always consult qualified healthcare professionals for medical advice, diagnosis, or treatment.
+
 
 
