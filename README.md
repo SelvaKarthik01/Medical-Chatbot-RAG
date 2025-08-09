@@ -267,7 +267,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Selva Karthik**
 - GitHub: [@SelvaKarthik01](https://github.com/SelvaKarthik01)
-- Project: [Medical-Chatbot](https://github.com/SelvaKarthik01/Medical-Chatbot)
+- Project: [Medical-Chatbot](https://github.com/SelvaKarthik01/Medical-Chatbot-RAG)
 
 ## 🙏 Acknowledgments
 
@@ -290,3 +290,4 @@ If you encounter any issues or have questions:
 ---
 
 **⚠️ Disclaimer**: This chatbot is for educational and informational purposes only. Always consult qualified healthcare professionals for medical advice, diagnosis, or treatment.
+
